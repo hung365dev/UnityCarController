@@ -13,7 +13,7 @@ A physics based and open source implementation of Car controller using joints.
 <b>Steps to use plugin</b><br>
 <ol>
   <li>Download the CarController script in your Assets</li>
-  <li>Follow the steps in <i>Yet to go on youtube</i></li>
+  <li>Follow the steps in <i>'Yet to go on youtube (Planned tomorrow)'</i></li>
 </ol>
 
 <b><i>And ofcourse, if you dont have separate meshes for wheels and everything is in a single mesh, you could just make empty game objects, add the colliders and orient them properly instead of going back to 3D modelling software and breaking the mesh.</i></b>
