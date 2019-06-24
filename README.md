@@ -1,7 +1,7 @@
 # UnityCarController
 A physics based and open source implementation of Car controller using joints.
 
-<b>  Why support unrealistic physics when Unity and Nvidia have some real juice :D</b>
+<b>  Why support unrealistic physics when Unity and Nvidia have blessings on us :D</b>
 <br><br>
 
 ![FAILED TO LOAD IMG](IMG/1.png)<br>
